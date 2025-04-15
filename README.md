@@ -6,13 +6,13 @@
 
 ---
 
-**Graduado em Sistemas da Informação**  
+🎓 **Graduado em Sistemas da Informação**  
 Mais de 8 anos de experiência em desenvolvimento frontend, backend e full stack, entregando soluções robustas, escaláveis e de alta performance.  
 Apaixonado por tecnologia, arquitetura de software e sistemas complexos — movido por desafios e inovação.
 
 ---
 
-## Sobre mim
+## 👨🏽‍💻 Sobre mim
 
 Sou Victor Gois Vieira, desenvolvedor full stack sênior com ampla experiência em ferramentas como React, React Native, Node.js e todo seu ecossistema.  
 Ao longo da carreira, atuei em projetos relevantes nos setores financeiro, logístico e de seguros.
@@ -21,7 +21,7 @@ Tenho facilidade em entregar código limpo, arquiteturas eficientes e me adaptar
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -52,7 +52,7 @@ Tenho facilidade em entregar código limpo, arquiteturas eficientes e me adaptar
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgois07&layout=compact&theme=radical" width="45%" />
