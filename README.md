@@ -1,4 +1,8 @@
-<h1 align="center">Victor Gois Vieira</h1>
+<h1 align="center">Hi there! I'm Victor Gois Vieira</h1>
+
+<p align="center">
+  🇧🇷 Olá | 🇺🇸 Hello | 🇪🇸 Hola
+</p>
 
 <p align="center">
   <strong>Senior Full Stack Engineer • Especialista em React, React Native, Vue.js, Node.js, TypeScript e Arquiteturas Escaláveis • 8+ anos de experiência</strong>
